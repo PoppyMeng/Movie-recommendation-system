@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MovieRunnerSimilarRatings
+comment0.text=\n\ Write\ a\ description\ of\ M\u200BovieRunnerSimilarRatings\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ printSimilarRatings()
+comment2.params=
+comment2.target=void\ printSimilarRatingsByGenre()
+comment3.params=
+comment3.target=void\ printSimilarRatingsByDirector()
+comment4.params=
+comment4.target=void\ printSimilarRatingsByGenreAndMinutes()
+comment5.params=
+comment5.target=void\ printSimilarRatingsByYearAfterAndMinutes()
+numComments=6
