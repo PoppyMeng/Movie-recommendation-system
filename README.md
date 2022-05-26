@@ -1,6 +1,5 @@
 # Movie-recommendation-system
 content-based movie recommendation system using Java
-# Movie-Recommendation-System
 
 #### A simple movie recommendation system using Java and CSS
 This is a capstone project by Duke University. Users can access a webpage with a list of recommended movies from top rating to low after finishing their first rating.
